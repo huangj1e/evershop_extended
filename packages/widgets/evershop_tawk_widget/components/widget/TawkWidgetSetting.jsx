@@ -20,7 +20,7 @@ export default function TawkWidgetSetting({
 <!--End of Tawk.to Script-->'
         label="Code"
         value={text}
-        style={{ width: '100%', height: '100px', padding: '10px', borderRadius: '5px', border: '1px solid #ccc' }}
+        style={{ width: '100%', height: '360px', padding: '10px', borderRadius: '5px', border: '1px solid #ccc' }}
       />
     </div>
   );
