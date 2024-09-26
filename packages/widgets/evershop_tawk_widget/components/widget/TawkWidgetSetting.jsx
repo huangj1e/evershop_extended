@@ -10,12 +10,14 @@ export default function TawkWidgetSetting({
       <p>Enter Tawk's script code below</p><br />
       <p>Enter content in AREA Enter Enter</p>
       <p>Select ALL from Page</p>
-      <p>Sort order Enter 1</p>
+      <p>Sort order enter 1</p>
 
       <Field
         type="textarea"
         name="settings[text]"
-        placeholder='<script src="//code.tawk.co/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.js" async></script>'
+        placeholder='<!--Start of Tawk.to Script-->
+...
+<!--End of Tawk.to Script-->'
         label="Code"
         value={text}
         style={{ width: '100%', height: '100px', padding: '10px', borderRadius: '5px', border: '1px solid #ccc' }}
