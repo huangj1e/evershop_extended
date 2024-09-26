@@ -5,9 +5,9 @@ module.exports = () => {
     const tawkWidget = {
         tawk_widget: {
             setting_component:
-                'tawk_widget/components/widget/TawkWidgetSetting.jsx',
+                'evershop_tawk_widget/components/widget/TawkWidgetSetting.jsx',
             component:
-                'tawk_widget/components/widget/TawkWidget.jsx',
+                'evershop_tawk_widget/components/widget/TawkWidget.jsx',
             name: 'Tawk widget',
             description: 'Instant Tawk messaging widgets',
             default_settings: {
