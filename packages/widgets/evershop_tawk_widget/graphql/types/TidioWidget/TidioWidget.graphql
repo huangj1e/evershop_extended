@@ -1,0 +1,10 @@
+"""
+Return a text Widget
+"""
+type TawkWidget {
+  text: String
+}
+
+extend type Query {
+  tawkWidget(settings: JSON): TawkWidget
+}

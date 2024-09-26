@@ -1,0 +1,16 @@
+{
+  "name": "evershop_tawk_widget",
+  "version": "1.0.2",
+  "description": "help you add Tawk instant messaging widgets to evershop ",
+  "keywords": [
+    "EverShop",
+    "tawk",
+    "widget"
+  ],
+  "author": "huangj1e",
+  "license": "GNU GENERAL PUBLIC LICENSE 3.0",
+  "engines": {
+    "node": ">= 14.0.0"
+  },
+  "private": false
+}
