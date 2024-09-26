@@ -1,12 +1,17 @@
 {
   "name": "evershop_tawk_widget",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "help you add Tawk instant messaging widgets to evershop ",
   "keywords": [
     "EverShop",
     "tawk",
     "widget"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huangj1e/evershop_extended.git"
+  },
+  "homepage": "https://github.com/huangj1e/evershop_extended/tree/main/packages/widgets/evershop_tawk_widget",
   "author": "huangj1e",
   "license": "GNU GENERAL PUBLIC LICENSE 3.0",
   "engines": {
